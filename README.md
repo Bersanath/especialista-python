@@ -8,15 +8,10 @@ Previsão Término: Fevereiro de 2026
 ## 📚 Módulos do Curso
 
 ## Módulo 01: Fundamentos do Python
-<<<<<<< HEAD
 - [x] 01 - Introdução ao Pyhton e Atribuição de Variáveis
 - [x] 02 - Operadores Aritméticos
-=======
-- [] 01 - Introdução ao Pyhton e Atribuição de Variáveis
-- [] 02 - Operadores Aritméticos
->>>>>>> bda731fcd9f720034b22bcfbdec0e3560e10fd70
-- [] 03 - Tipos de dados
-- [] 04 - Conversões
+- [x] 03 - Tipos de dados
+- [x] 04 - Conversões
 - [] 05 - Entrada de dados
 - [] 06 - Saída de dados
 - [] 07 - STRINGS - Como trabalhar com strings
