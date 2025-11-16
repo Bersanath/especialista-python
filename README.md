@@ -12,8 +12,8 @@ Previsão Término: Fevereiro de 2026
 - [x] 02 - Operadores Aritméticos
 - [x] 03 - Tipos de dados
 - [x] 04 - Conversões
-- [] 05 - Entrada de dados
-- [] 06 - Saída de dados
+- [x] 05 - Entrada de dados
+- [x] 06 - Saída de dados
 - [] 07 - STRINGS - Como trabalhar com strings
 - [] 08 - STRINGS - Principais propriedades
 
