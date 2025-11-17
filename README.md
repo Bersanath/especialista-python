@@ -14,8 +14,8 @@ Previsão Término: Fevereiro de 2026
 - [x] 04 - Conversões
 - [x] 05 - Entrada de dados
 - [x] 06 - Saída de dados
-- [] 07 - STRINGS - Como trabalhar com strings
-- [] 08 - STRINGS - Principais propriedades
+- [x] 07 - STRINGS - Como trabalhar com strings
+- [x] 08 - STRINGS - Principais propriedades
 
 ## Módulo 02: Lógica e Decisões em Python
 - [] 01- Operadores Lógicos e de Comparação
