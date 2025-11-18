@@ -18,8 +18,8 @@ Previsão Término: Fevereiro de 2026
 - [x] 08 - STRINGS - Principais propriedades
 
 ## Módulo 02: Lógica e Decisões em Python
-- [] 01- Operadores Lógicos e de Comparação
-- [] 02 - Estrutura de Decisão (IF THEN ELSE)
+- [x] 01- Operadores Lógicos e de Comparação
+- [x] 02 - Estrutura de Decisão (IF THEN ELSE)
 
 ## Módulo 03: Explorando Estrutura de Dados
 - [] 01 - Listas - Adicionando dados das listas
