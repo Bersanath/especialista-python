@@ -22,8 +22,8 @@ Previsão Término: Fevereiro de 2026
 - [x] 02 - Estrutura de Decisão (IF THEN ELSE)
 
 ## Módulo 03: Explorando Estrutura de Dados
-- [] 01 - Listas - Adicionando dados das listas
-- [] 02 - Listas - Removendo dados das listas
+- [x] 01 - Listas - Adicionando dados das listas
+- [x] 02 - Listas - Removendo dados das listas
 - [] 03 - Listas - Seleção e Ordenação de dados
 - [] 04 - Listas - Fatiando listas
 - [] 05 - Principais funções para trabalhar com iteráveis
