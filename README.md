@@ -24,9 +24,9 @@ Previsão Término: Fevereiro de 2026
 ## Módulo 03: Explorando Estrutura de Dados
 - [x] 01 - Listas - Adicionando dados das listas
 - [x] 02 - Listas - Removendo dados das listas
-- [] 03 - Listas - Seleção e Ordenação de dados
-- [] 04 - Listas - Fatiando listas
-- [] 05 - Principais funções para trabalhar com iteráveis
+- [x] 03 - Listas - Seleção e Ordenação de dados
+- [x] 04 - Listas - Fatiando listas
+- [x] 05 - Principais funções para trabalhar com iteráveis
 - [] 06 - Tuplas
 - [] 07 - Dicionários - Criação e seleção de dados
 - [] 08 - Dicionários - Verificação de chaves e cópias razas
