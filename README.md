@@ -27,9 +27,9 @@ Previsão Término: Fevereiro de 2026
 - [x] 03 - Listas - Seleção e Ordenação de dados
 - [x] 04 - Listas - Fatiando listas
 - [x] 05 - Principais funções para trabalhar com iteráveis
-- [] 06 - Tuplas
-- [] 07 - Dicionários - Criação e seleção de dados
-- [] 08 - Dicionários - Verificação de chaves e cópias razas
+- [x] 06 - Tuplas
+- [x] 07 - Dicionários - Criação e seleção de dados
+- [x] 08 - Dicionários - Verificação de chaves e cópias razas
 - [] 09 - Sets - O que são e diferenças entre outras estruturas de dados
 - [] 10 - Sets - União, Intersecção e Diferença
 - [] 11 - Sets - Comparações entre sets
