@@ -30,11 +30,11 @@ Previsão Término: Fevereiro de 2026
 - [x] 06 - Tuplas
 - [x] 07 - Dicionários - Criação e seleção de dados
 - [x] 08 - Dicionários - Verificação de chaves e cópias razas
-- [] 09 - Sets - O que são e diferenças entre outras estruturas de dados
-- [] 10 - Sets - União, Intersecção e Diferença
-- [] 11 - Sets - Comparações entre sets
-- [] 12 - Pilhas e Filas - parte 2
-- [] 13 - Operadores de Identidade e Associação
+- [x] 09 - Sets - O que são e diferenças entre outras estruturas de dados
+- [x] 10 - Sets - União, Intersecção e Diferença
+- [x] 11 - Sets - Comparações entre sets
+- [x] 12 - Pilhas e Filas - parte 2
+- [x] 13 - Operadores de Identidade e Associação
 
 ## Módulo 04: Mergulhando nas Estruturas de Repetições
 - [] 01 - Operadores de atribuição
