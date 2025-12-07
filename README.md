@@ -37,9 +37,9 @@ Previsão Término: Fevereiro de 2026
 - [x] 13 - Operadores de Identidade e Associação
 
 ## Módulo 04: Mergulhando nas Estruturas de Repetições
-- [] 01 - Operadores de atribuição
-- [] 02 - While-Else
-- [] 03 - For
+- [x] 01 - Operadores de atribuição
+- [x] 02 - While-Else
+- [x] 03 - For
 - [] 04 - Intruções BREAK e CONTINUE em Laços
 - [] 05 - Range
 - [] 06 - Enumerate
