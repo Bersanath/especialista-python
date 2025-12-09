@@ -40,9 +40,9 @@ Previsão Término: Fevereiro de 2026
 - [x] 01 - Operadores de atribuição
 - [x] 02 - While-Else
 - [x] 03 - For
-- [] 04 - Intruções BREAK e CONTINUE em Laços
-- [] 05 - Range
-- [] 06 - Enumerate
+- [x] 04 - Intruções BREAK e CONTINUE em Laços
+- [x] 05 - Range
+- [x] 06 - Enumerate
   
 ## Módulo 05: Criando e Reutilizando Código
 - [] 01 - Definição de uma função
