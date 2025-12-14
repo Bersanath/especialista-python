@@ -45,13 +45,13 @@ Previsão Término: Fevereiro de 2026
 - [x] 06 - Enumerate
   
 ## Módulo 05: Criando e Reutilizando Código
-- [] 01 - Definição de uma função
-- [] 02 - Funções com retorno de valores múltiplos
-- [] 03 - Modificando variáveis globais dentro de uma função
-- [] 04 - Modificando variáveis de funções filhas
-- [] 05 - Args - Atributos nomeados ou posicionais de uma função
-- [] 06 - Kwargs - Atributos exclusivamente nomeados de uma função
-- [] 07 - Desempacotamento
+- [x] 01 - Definição de uma função
+- [x] 02 - Funções com retorno de valores múltiplos
+- [x] 03 - Modificando variáveis globais dentro de uma função
+- [x] 04 - Modificando variáveis de funções filhas
+- [x] 05 - Args - Atributos nomeados ou posicionais de uma função
+- [x] 06 - Kwargs - Atributos exclusivamente nomeados de uma função
+- [x] 07 - Desempacotamento
 
 ## Módulo 06: Lidando com Situações Inesperadas
 - [] 01 - TRY e EXCEPT
