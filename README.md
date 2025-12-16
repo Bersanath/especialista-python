@@ -54,11 +54,11 @@ Previsão Término: Fevereiro de 2026
 - [x] 07 - Desempacotamento
 
 ## Módulo 06: Lidando com Situações Inesperadas
-- [] 01 - TRY e EXCEPT
-- [] 02 - FINALLY
-- [] 03 - RAISE
-- [] 04 - Capturando a Instância do Erro
-- [] 05 - Tracebacks
+- [x] 01 - TRY e EXCEPT
+- [x] 02 - FINALLY
+- [x] 03 - RAISE
+- [x] 04 - Capturando a Instância do Erro
+- [x] 05 - Tracebacks
 
 ## Módulo 07: Explorando e Manipulando o Sistema Operacional
 - [] 01 - Módulo OS - Criando, Deletando e Renomeando diretórios
