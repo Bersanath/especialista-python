@@ -63,8 +63,8 @@ Previsão Término: Fevereiro de 2026
 ## Módulo 07: Explorando e Manipulando o Sistema Operacional
 - [x] 01 - Módulo OS - Criando, Deletando e Renomeando diretórios
 - [x] 02 - Módulo OS - Listando diretórios e arquivos
-- [] 03 - Módulo OS - Validação de existência
-- [] 04 - Módulo OS - Obtendo dados de arquivos
+- [x] 03 - Módulo OS - Validação de existência
+- [x] 04 - Módulo OS - Obtendo dados de arquivos
 - [] 05 - DESAFIO - Solução
 
 ## Módulo 08: Explorando a Programação Orientada e Objetos (POO)
