@@ -65,16 +65,16 @@ Previsão Término: Fevereiro de 2026
 - [x] 02 - Módulo OS - Listando diretórios e arquivos
 - [x] 03 - Módulo OS - Validação de existência
 - [x] 04 - Módulo OS - Obtendo dados de arquivos
-- [] 05 - DESAFIO - Solução
+- [x] 05 - DESAFIO - Solução
 
 ## Módulo 08: Explorando a Programação Orientada e Objetos (POO)
-- [] 01 - Classes
-- [] 02 - Objetos
-- [] 03 - Construtores
-- [] 04 - Destrutores
-- [] 05 - Herança
-- [] 06 - Polimorfismo
-- [] 07 - Encapsulamento
+- [x] 01 - Classes
+- [x] 02 - Objetos
+- [x] 03 - Construtores
+- [x] 04 - Destrutores
+- [x] 05 - Herança
+- [x] 06 - Polimorfismo
+- [x] 07 - Encapsulamento
 
 ## Módulo 09: Bibliotecas - Matemática e Estatística
 - [] 01 - Módulo MATH - Principais Funções
